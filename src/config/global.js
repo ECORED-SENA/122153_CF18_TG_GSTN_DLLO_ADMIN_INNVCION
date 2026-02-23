@@ -35,36 +35,30 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
         numero: '1',
         titulo: 'Documentos organizacionales',
         desarrolloContenidos: true,
       },
-
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
         numero: '2',
         titulo: 'Desarrollo de documentos organizacionales',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
         numero: '3',
         titulo: 'Redacción de documentos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
         numero: '4',
         titulo: 'Gestión documental',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
         numero: '5',
         titulo: 'Mejoramiento continuo',
         desarrolloContenidos: true,

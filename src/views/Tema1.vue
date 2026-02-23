@@ -8,58 +8,52 @@
       h1 Documentos organizacionales
     
     .row.justify-content-center.mb-4
-      .col-md-5
+      .col-lg-5.col-md-8.mb-3.mb-lg-0
         figure.mw-sm-350px
-          img(src='@/assets/curso/temas/texto_destacado/img2.png', alt='imagen relacionada')
-      .col-md-7      
+          img(src='@/assets/curso/temas/texto_destacado/img2.png', alt='')
+      .col-lg-7      
         p.mb-0 Para comenzar, debemos tener presente que los documentos organizacionales son la base de la gestión de la información en las entidades públicas y privadas, su utilización de manera adecuada optimiza el desempeño administrativo en todas las áreas, agilizando procesos y reduciendo trámites que conllevan a las partes interesadas, a un servicio ineficaz, convirtiendo esta mala práctica en sanciones legales, pérdida de tiempo y baja productividad; por eso, la importancia de una acertada estructuración.
     
     p.mb-4 Con el propósito de observar las técnicas y lineamientos acerca de la elaboración de los documentos organizacionales, a continuación, se establecen criterios definidos en cuanto a:
 
-    .row.justify-content-center.mb-4
-      .col-md-3.col-lg-4(style="margin-top: 10px; ")
-        img(src='@/assets/curso/temas/texto_destacado/img3.png', alt='imagen relacionada') 
-      .col-md-8.col-lg-8
-        TabsA.color-acento-contenido.mb-4
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Documento")
-            .row
-              .col-md-12.p-4.color-fondo
-                p En el ámbito de la gestión del desarrollo administrativo, el documento surge como uno de los elementos esenciales para el funcionamiento de las organizaciones, siendo el objeto corporal producto de la actividad humana que sirve de fuente de conocimiento y que demuestra o prueba algo, establecido en un soporte perdurable que contiene información; esta materialización de actividades o hechos de una organización, exige que la información allí plasmada se pueda interpretar, sea fehaciente, objetiva, legítima y auténtica.
-              
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Documento <br> organizacional")
-            .row
-              .col-md-12.p-4.color-fondo
-                p Es el producto técnico, que permite evidenciar las diferentes actividades en razón a las funciones de la organización, soportado en diferentes tipos documentales, determinando diligencias administrativas enmarcadas en la planificación, ejecución y evaluación de la gestión de una entidad, favoreciendo la interacción entre áreas y dependencias, en busca del cumplimiento de expectativas y necesidades y la satisfacción del cliente o partes interesadas.
+    .row.justify-content-center.mb-5
+      .col-lg-4.d-none.d-lg-block
+        img(src='@/assets/curso/temas/texto_destacado/img3.png', alt='') 
+      .col-lg-8
+        TabsA.color-acento-contenido
+          .tarjeta.color-fondo(titulo="Documento")
+            .p-4
+              p En el ámbito de la gestión del desarrollo administrativo, el documento surge como uno de los elementos esenciales para el funcionamiento de las organizaciones, siendo el objeto corporal producto de la actividad humana que sirve de fuente de conocimiento y que demuestra o prueba algo, establecido en un soporte perdurable que contiene información; esta materialización de actividades o hechos de una organización, exige que la información allí plasmada se pueda interpretar, sea fehaciente, objetiva, legítima y auténtica.              
+          .tarjeta.color-fondo(titulo="Documento organizacional")
+            .p-4
+              p Es el producto técnico, que permite evidenciar las diferentes actividades en razón a las funciones de la organización, soportado en diferentes tipos documentales, determinando diligencias administrativas enmarcadas en la planificación, ejecución y evaluación de la gestión de una entidad, favoreciendo la interacción entre áreas y dependencias, en busca del cumplimiento de expectativas y necesidades y la satisfacción del cliente o partes interesadas.
 
-    .row.justify-content-center.mb-6
-      .col-md-10.mb-4
+    .row.justify-content-center.mb-5
+      .col-lg-10
         .cajon.color-acento-botones.color-fondo-secundario.p-4
           p.mb-0 En atención al desarrollo de la gestión documental de la organización, principalmente se deben tener en cuenta los lineamientos determinados por el Instituto Colombiano de Normas Técnicas y Certificación ICONTEC, en la Guía Técnica Colombia GTC 185 de 2009, denominada “Documentación Organizacional”, precepto que estandariza aspectos fundamentales para facilitar y organizar las comunicaciones impresas y electrónicas, siendo una guía de empresarios, directivos y gerentes, en la elaboración de variados documentos que se pueden adaptar como base para la formulación de procesos y sus diferentes tipos documentales, al interior de las organizaciones.
     
     p.mb-4 La siguiente imagen nos presenta las referencias normativas de la GTC 185.
 
-    .mx-auto.col-md-11.mb-5
+    .mb-5
       .titulo-sexto.color-acento-contenido
-        p.mb-0
-          b Figura 1 #[br]
-          em  Referencias normativas GTC 185
-
-      figure.mb-5
-        img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
+        p.mb-0 #[b Figura 1.] Referencias normativas GTC 185
+      figure
+        img(src='@/assets/curso/temas/figuras/figura1.svg', alt='Mapa conceptual que define la documentación organizacional de referencias normativas: - NTC 1001: papel, formatos. - NTC 1075: documentación, guía para la numeración de divisiones y subdivisiones en documentos escritos. - NTC 1486: documentación, presentación de tesis, trabajos de grado y otras labores de investigación. - NTC 4436: información y documentación , papel para documentos de archivo, requisitos para la permanencia y durabilidad. - NTC 5613: referencias bibliográficas, contenido, forma y estructura.')  
 
     .row.justify-content-center.mb-4
-      .col-md-7      
+      .col-lg-7      
         p.mb-0 Para el sector público existe un marco legal que exige a estas entidades enmarcar sus procesos dentro de los lineamientos, directrices y controles de orden administrativo, atendiendo protocolos y parámetros estandarizados que optimizan la gestión documental; estas políticas expedidas por el Gobierno a través del Archivo General de la Nación y articuladas con la Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional, la Seguridad de la información, los requisitos del Modelo Estándar de Control Interno (MECI) y el Sistema de Gestión de la Calidad ISO 9001, potencian la administración pública de la información, a partir de su adecuada aplicación con técnicas organizativas, que permiten el control de registros y de documentos, evitando malas prácticas que puedan afectar el control de la organización.
-      .col-md-5
+      .col-lg-5.d-none.d-lg-block
         figure.mw-sm-350px
-          img(src='@/assets/curso/temas/texto_destacado/img4.png', alt='imagen relacionada')
+          img(src='@/assets/curso/temas/texto_destacado/img4.png', alt='')
 
     p.mb-4 Conozcamos algunas de esas leyes y decretos:
 
     .row.justify-content-center.mb-4
-      .col-md-5
-        img(src='@/assets/curso/temas/texto_destacado/img5.png', alt='imagen relacionada')  
-      .col-md-7
+      .col-lg-5.d-none.d-lg-block
+        img(src='@/assets/curso/temas/texto_destacado/img5.png', alt='')  
+      .col-lg-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Ley 527 de 1999")
             .col-md-12.mb-4.mb-md-0
@@ -107,45 +101,37 @@
     p.mb-4 Conozcamos cada uno de estos documentos:     
     
     .row.justify-content-center.mb-4
-      .col-md-7
+      .col-lg-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Actas")
             .col-md-12.mb-4.mb-md-0
-              p Se registra lo tratado en una reunión o situación específica. Son documentos que adquieren valor administrativo, legal, jurídico e histórico desde el momento de su creación.
-        
+              p Se registra lo tratado en una reunión o situación específica. Son documentos que adquieren valor administrativo, legal, jurídico e histórico desde el momento de su creación.        
           .row(titulo="Carta")
             .col-md-12.mb-4.mb-md-0
               p Tiene como objetivo principal dar un mensaje, como resultado de las funciones realizadas por las dependencias, en respuesta a una solicitud o necesidad.
-
           .row(titulo="Constancia")
             .col-md-12.mb-4.mb-md-0
               p Documento de carácter probatorio, que no requiere solemnidad, puede ser personal. 
-
           .row(titulo="Comunicaciones oficiales")
             .col-md-12.mb-4.mb-md-0
-              p Son aquellas recibidas o producidas en desarrollo de las funciones asignadas legalmente a una entidad, independientemente del medio utilizado. 
-          
+              p Son aquellas recibidas o producidas en desarrollo de las funciones asignadas legalmente a una entidad, independientemente del medio utilizado.           
           .row(titulo="Memorando")
             .col-md-12.mb-4.mb-md-0
-              p Documento que informa sobre un hecho, de forma breve, expresa necesidades, se pueden realizar requerimientos, desarrolla o agiliza un asunto, entre otros aspectos.
-          
+              p Documento que informa sobre un hecho, de forma breve, expresa necesidades, se pueden realizar requerimientos, desarrolla o agiliza un asunto, entre otros aspectos.          
           .row(titulo="Circulares")
             .col-md-12.mb-4.mb-md-0
-              p Comunicaciones escritas de interés común, se utilizan para informar disposiciones, normas, lineamientos y políticas.
-        
+              p Comunicaciones escritas de interés común, se utilizan para informar disposiciones, normas, lineamientos y políticas.        
           .row(titulo="Correspondencia")
             .col-md-12.mb-4.mb-md-0
               p Comunicaciones de carácter privado que llegan a las entidades, a título personal, citando o no, el cargo del funcionario. No generan trámites para las instituciones. 
-
           .row(titulo="Documento original")
             .col-md-12.mb-4.mb-md-0
-              p Es la fuente primaria de información con todos los rasgos y características que permiten garantizar su autenticidad e integridad.
-          
+              p Es la fuente primaria de información con todos los rasgos y características que permiten garantizar su autenticidad e integridad.          
           .row(titulo="Documento público")
             .col-md-12.mb-4.mb-md-0
               p Es el producido o tramitado por el funcionario público, en ejercicio de su cargo o con su intervención.
-      .col-md-5
-        img(src='@/assets/curso/temas/texto_destacado/img7.png', alt='imagen relacionada')  
+      .col-lg-5.d-none.d-lg-block
+        img(src='@/assets/curso/temas/texto_destacado/img7.png', alt='')  
 
               
          
