@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Etapas del desarrollo de documentos organizacionales'
