@@ -200,11 +200,6 @@ export default {
     },
     {
       referencia:
-        'ICONTEC. (1994).<em> Norma Técnica Colombiana NTC 1075 - Documentación guía para numeración de divisiones y subdivisiones en documentos escritos.</em> ',
-      link: 'https://pdfslide.net/documents/ntc-1075.html ',
-    },
-    {
-      referencia:
         'ICONTEC. (1998).<em> Norma Técnica Colombiana NTC 4436 - Información y documentación. Papel para documentos de archivo. Requisitos para la permanencia y la durabilidad.</em> ',
       link:
         'https://tecarchivos.files.wordpress.com/2012/02/ntc-4436-papeles1.pdf',
